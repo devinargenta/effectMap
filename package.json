@@ -1,11 +1,15 @@
 {
   "name": "effectmap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "chainable array function that takes a side effect function and returns the input",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "devin.argenta@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/devinargenta/effectMap.git"
+  }
 }
