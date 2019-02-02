@@ -1,0 +1,11 @@
+{
+  "name": "effectmap",
+  "version": "1.0.0",
+  "description": "chainable array function that takes a side effect function and returns the input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devin@devinargenta.com",
+  "license": "ISC"
+}
